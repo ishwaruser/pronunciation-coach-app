@@ -1,9 +1,4 @@
 [app]
-android.api = 33
-android.min_api = 21
-android.sdk = 33
-android.ndk = 25b
-android.build_tools_version = 33.0.2
 title = Pronunciation Coach
 package.name = proncoach
 package.domain = org.proncoach
@@ -20,6 +15,7 @@ android.api = 33
 android.min_api = 21
 android.sdk = 33
 android.ndk = 25b
+android.build_tools_version = 33.0.2
 
 [buildozer]
 log_level = 2
